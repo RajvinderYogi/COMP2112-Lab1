@@ -8,3 +8,8 @@
 * I have defined object with the array of data in it.
 * Object is defined using let.
 * Used console.table to show all data in a table.
+
+
+:sparkles Anyone can create this Readme file using the following link: :sparkles
+
+Link: https://guides.github.com/features/mastering-markdown/
