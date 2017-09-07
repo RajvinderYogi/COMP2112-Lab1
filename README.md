@@ -13,3 +13,15 @@
 :+1: Anyone can learn how to create this Readme file using the following link: :+1:
 
 Link: [Github Markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+### Code for Table console:
+```
+ let cars = [
+  {'Make' : 'BMW', 'Model' : '325i', 'Mileage' : 24000 },
+  {'Make' : 'Hyundai', 'Model' : 'Sonata', 'Mileage' : 42585 },
+  {'Make' : 'Honda', 'Model' : 'Accord', 'Mileage' : 66250 }   
+];
+
+console.table(cars);
+```
