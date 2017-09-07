@@ -10,6 +10,6 @@
 * Used console.table to show all data in a table.
 
 
-:sparkles Anyone can create this Readme file using the following link: :sparkles
+:+1 Anyone can learn how to create this Readme file using the following link: :+1
 
 Link: [Github Markdown](https://guides.github.com/features/mastering-markdown/)
