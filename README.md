@@ -25,4 +25,4 @@ Link: [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 
 console.table(cars);
 ```
-![Output Table](https://github.com/RajvinderYogi/COMP2112-Lab1/commit/c0923e4b833ac9779b5484c834296770d7e058d4)
+![Output Table](https://github.com/RajvinderYogi/COMP2112-Lab1/blob/c0923e4b833ac9779b5484c834296770d7e058d4/table.PNG)
