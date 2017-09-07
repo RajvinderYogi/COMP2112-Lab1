@@ -12,4 +12,4 @@
 
 :sparkles Anyone can create this Readme file using the following link: :sparkles
 
-Link: [Github Markdown] (https://guides.github.com/features/mastering-markdown/)
+Link: ![Github Markdown] (https://guides.github.com/features/mastering-markdown/)
